@@ -1,5 +1,5 @@
-Future tool developer\n
-Learning C, Python and open to more\n
+Future tool developer
+Learning C, Python and open to more
 Looking forward to making cool stuff
 
 <!---
